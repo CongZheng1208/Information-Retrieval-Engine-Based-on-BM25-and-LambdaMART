@@ -12,7 +12,7 @@ In LambdaMART.py, the LambdaMART model is used to build and evaluate a similar q
 
 In RNN.py, three different types of neural networks are constructed and their query performance is compared and analyzed. Among them, the retrieval and sorting results of the RNN with the best performance are stored in NN.txt in the root directory.
 
-In the Report of Assignment2.pdf, the whole process and output results of the above solutions are described, and the analysis and discussion are carried out.
+In the report.pdf and  report2.pdf, the whole process and output results of the above solutions are described, and the analysis and discussion are carried out.
 
 ### 2. Input data
 The input data test-queries.tsv, candidate_passages_top1000.tsv, train_data.tsv and validation_data.tsv need to be stored in the same folder with the same path as them, to make it work properly.
